@@ -145,5 +145,5 @@ pip install pandas matplotlib seaborn scikit-learn imbalanced-learn
 
 ## Acknowledgments
 
-This project utilizes the `BRCA.csv` dataset for academic purposes, showcasing advanced data analysis and machine learning methodologies.
+This project uses the BRCA.csv dataset for academic analysis, applying various data analysis and machine learning techniques.
 
